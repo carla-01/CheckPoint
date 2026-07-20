@@ -1,2 +1,2 @@
-# EDA_projeto2
+# CHECKPOINT
 Repositório destinado ao Projeto de Laboratório de Estrutura de dados.
